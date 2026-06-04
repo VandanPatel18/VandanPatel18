@@ -1,3 +1,47 @@
+```html
+<h1 align="left">
+Hi there, I'm Vandan Patel! 👋
+</h1>
+
+<hr>
+
+<p align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=42&duration=2200&pause=800&color=36F7D7&center=true&vCenter=true&width=900&height=80&lines=%3E+VANDAN+PATEL;%3E+AIML+STUDENT;%3E+MACHINE+LEARNING+ENTHUSIAST;%3E+DATA+ANALYTICS+LEARNER;%3E+PYTHON+DEVELOPER;%3E+AI+MODEL+BUILDER" />
+
+</p>
+
+<p align="center">
+
+🎓 AIML Student &nbsp; | &nbsp;
+🧠 Machine Learning Enthusiast &nbsp; | &nbsp;
+📊 Data Analytics Learner
+
+</p>
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/vandan-patel-455037362/" target="_blank">
+<img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:thisisvandanptl@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/VandanPatel18">
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=VandanPatel18&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
+<hr>
+```
+
 ````html
 <!-- PREMIUM FUTURISTIC HEADER -->
 <p align="center">
