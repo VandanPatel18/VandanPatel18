@@ -40,9 +40,7 @@ Hi there, I'm Vandan Patel! 👋
 </p>
 
 <hr>
-```
 
-````html
 <!-- PREMIUM FUTURISTIC HEADER -->
 <p align="center">
   <img 
