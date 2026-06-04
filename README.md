@@ -80,27 +80,6 @@ I --> J[Machine Learning]
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=VandanPatel18&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VandanPatel18&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=VandanPatel18&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
 
 ## 📈 Contribution Graph
 
@@ -113,7 +92,6 @@ I --> J[Machine Learning]
 🔹 **CSITS Project**
 🔹 **Machine Learning Models**
 🔹 **Data Analytics Projects**
-🔹 **DSA Solutions Repository**
 
 ---
 
@@ -126,16 +104,6 @@ I --> J[Machine Learning]
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=VandanPatel18&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
-</p>
-
----
-
 ## 🌐 Connect With Me
 
 <p align="center">
@@ -144,7 +112,7 @@ I --> J[Machine Learning]
 <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/">
+<a href="https://www.linkedin.com/in/vandan-patel-455037362/">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
