@@ -1,4 +1,3 @@
-```html
 <h1 align="left">
 Hi there, I'm Vandan Patel! 👋
 </h1>
@@ -31,83 +30,33 @@ Hi there, I'm Vandan Patel! 👋
 <img src="https://komarev.com/ghpvc/?username=VandanPatel18&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
-<br>
-
-# 💫 About Me
+## 💫 About Me
 
 I am an **AIML student at VIT Bhopal University**, passionate about **Machine Learning, Data Analytics, and AI Model Building**.
 
-I enjoy learning Python libraries, solving DSA problems, and building projects that strengthen my understanding of AI and analytics.
+* 🎓 B.Tech in Artificial Intelligence & Machine Learning at **VIT Bhopal University**
+* 🔭 Learning **Machine Learning & Data Analytics**
+* 🌱 Currently studying **NumPy, Pandas, Matplotlib, Seaborn, SQL**
+* ⚙️ Focused on consistent learning and problem solving
+* 📫 Contact: **[thisisvandanptl@gmail.com](mailto:thisisvandanptl@gmail.com)**
 
-- 🎓 **Education:** B.Tech in Artificial Intelligence & Machine Learning at **VIT Bhopal University**
-- 📍 **Location:** India
-- 🔭 **Current Focus:** Building strong foundations in Machine Learning and Data Analytics
-- 🌱 **Learning:** NumPy, Pandas, Matplotlib, Seaborn, Scikit-Learn, SQL
-- ⚙️ **Approach:** Clean code, logical problem-solving, and consistent learning
-- 📫 **Contact:** thisisvandanptl@gmail.com
-
----
-
-# 🛠️ Tech Stack & Tools
-
-### Programming Languages
+## 🛠️ Tech Stack
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=python,java,cpp,mysql" />
+<img src="https://skillicons.dev/icons?i=python,java,cpp,mysql,git,github,vscode" />
 
 </p>
 
-### Python Libraries
-
-<p>
-
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-
-</p>
-
-### Tools
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
-
-</p>
-
----
-
-# 🚀 Current Learning Journey
-
-- Python Fundamentals ✅
-- NumPy  
-- Pandas  
-- Matplotlib  
-- Seaborn  
-- Scikit-Learn  
-- SQL  
-- Machine Learning Fundamentals
-
----
-
-# 📊 GitHub Activity & Statistics
+## 📊 GitHub Statistics
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=VandanPatel18&show_icons=true&theme=tokyonight"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=VandanPatel18&show_icons=true&theme=tokyonight"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VandanPatel18&layout=compact&theme=tokyonight"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VandanPatel18&layout=compact&theme=tokyonight"/>
 
 </p>
-
-<br>
 
 <p align="center">
 
@@ -115,9 +64,7 @@ I enjoy learning Python libraries, solving DSA problems, and building projects t
 
 </p>
 
----
-
-# 📈 Contribution Activity Graph
+## 📈 Contribution Activity Graph
 
 <p align="center">
 
@@ -125,28 +72,8 @@ I enjoy learning Python libraries, solving DSA problems, and building projects t
 
 </p>
 
----
-
-# 📌 Featured Projects
-
-- 🔹 **CSITS Project**
-- 🔹 **Machine Learning Models**
-- 🔹 **Data Analytics Projects**
-- 🔹 **DSA Solutions Repository**
-
----
-
-# 🌱 Currently Exploring
-
-- Machine Learning Models  
-- Data Analytics & Visualization  
-- AI-based Problem Solving  
-- Real-world AIML Projects
-
----
-
-# 🌱 Developer Quote
+## 🌱 Developer Quote
 
 > *"Consistency beats talent when talent doesn’t stay consistent."*
-```
+
 
